@@ -13,3 +13,4 @@ MVP把Activity中的UI逻辑抽象成View接口，把业务逻辑抽象成Presen
 
 # first commit
 # add 把变更录入到索引中
+commit 记录索引的状态
