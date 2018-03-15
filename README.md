@@ -11,4 +11,4 @@ MVP把Activity中的UI逻辑抽象成View接口，把业务逻辑抽象成Presen
 该项目：
 ![mvp_login_demo](./doc/mvp_login_demo.png)
 
-# develop
+# first commit
