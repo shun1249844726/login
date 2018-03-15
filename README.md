@@ -11,5 +11,6 @@ MVP把Activity中的UI逻辑抽象成View接口，把业务逻辑抽象成Presen
 该项目：
 ![mvp_login_demo](./doc/mvp_login_demo.png)
 
-# first commit
-# add 把变更录入到索引中
+连猴子都懂的Git命令
+add 把变更录入到索引中
+pull 取得远端数据库的内容
